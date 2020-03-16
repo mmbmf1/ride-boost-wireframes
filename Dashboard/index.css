@@ -51,3 +51,14 @@ h1 {
   margin: 0;
   font-family: "Baloo", cursive;
 }
+
+.main-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: #aaa;
+}
