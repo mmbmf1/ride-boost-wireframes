@@ -51,31 +51,3 @@ h1 {
   margin: 0;
   font-family: "Baloo", cursive;
 }
-
-.main-section:nth-child(odd) {
-  margin-bottom: 10px;
-  background-color: #ddd;
-}
-
-.main-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 100%;
-  margin-bottom: 10px;
-  padding: 10px;
-  text-align: center;
-  background-color: #aaa;
-}
-
-button {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-footer {
-  padding: 10px;
-  text-align: center;
-  font-size: 0.8em;
-  background-color: lightgrey;
-}
